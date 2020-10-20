@@ -1,7 +1,7 @@
 # HTML page 
 
-Разборка html
+html
 
-Махсот Нурсат ИС-202(19)
+Makhsot Nursat IS-202(19)
 
-Язык гипертекстовой разметки
+Hypertext markup language 
